@@ -1,22 +1,12 @@
+🔥 CRAZYUSAGE_BOT 🔥
+https:/t,me/edmgangx
+
 <p align="center">
     <a href="https://github.com/PraveenKavindu/CrazyUsageBot">
         <img src="https://telegra.ph/file/df341e393aeda55112d3c.jpg" alt="CrazyUsage">
     </a>
     <br>
     <b>Pluggable Telegram UserBot</b>
-    <br>
-    <a href="https://github.com/UsergeTeam/Userge#inspiration-">Inspiration</a>
-    &nbsp•&nbsp
-    <a href="https://github.com/UsergeTeam/Userge#features-">Features</a>
-    &nbsp•&nbsp
-    <a href="https://github.com/UsergeTeam/Userge#example-plugin-">Example</a>
-    &nbsp•&nbsp
-    <a href="https://github.com/UsergeTeam/Userge#requirements-">Requirements</a>
-    &nbsp•&nbsp
-    <a href="https://github.com/UsergeTeam/Userge#project-credits-">Project Credits</a>
-    &nbsp•&nbsp
-    <a href="https://github.com/UsergeTeam/Userge#copyright--license-">Copyright & License</a>
-</p>
 
 # Userge 🔥
 
