@@ -1,3 +1,5 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PraveenKavindu/CrazyUsageBot/tree/PRAVEEN)
+
 # 🔥 CRAZYUSAGE_BOT 🔥 <br>
 https:/t,me/edmgangx
 
